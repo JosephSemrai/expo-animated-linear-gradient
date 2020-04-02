@@ -1,4 +1,4 @@
-# react-native-animated-linear-gradient
+expo-animated-linear-gradient
 Animated linear gradient as background animation or other.
 
 
@@ -8,8 +8,7 @@ Animated linear gradient as background animation or other.
   <img src="https://github.com/heineiuo/react-native-animated-linear-gradient/raw/master/.github/capture.gif" width=375 height=688>
 <br>
 
-## Install
-
+## Install (awaiting Expo publish to npm)
 1. install [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient),  run `npm install react-native-linear-gradient --save` 
 2. run `react-native link react-native-linear-gradient`
 3. run `npm install react-native-animated-linear-gradient --save`
