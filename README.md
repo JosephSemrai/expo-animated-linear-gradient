@@ -1,5 +1,5 @@
-expo-animated-linear-gradient
-Animated linear gradient as background animation or other.
+# expo-animated-linear-gradient
+Continued support for the inactive `react-native-animated-linear-gradient` project. Adds support for Expo and limited type safety with TypeScript.
 
 
 ## Example
